@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/add.svg</file>
+        <file>res/plus.svg</file>
+        <file>res/folder.svg</file>
+        <file>res/share.svg</file>
+        <file>res/network.svg</file>
+        <file>res/placeholder.svg</file>
+        <file>res/cancel.svg</file>
+        <file>res/pencil.svg</file>
+        <file>res/pp.png</file>
+        <file>res/copy.svg</file>
+        <file>res/ip.jpg</file>
+        <file>res/default.png</file>
+        <file>res/tracking.svg</file>
+        <file>res/inpost.png</file>
+        <file>res/enveloblue.png</file>
+        <file>res/envelo.png</file>
+    </qresource>
+</RCC>
